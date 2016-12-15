@@ -1,0 +1,14 @@
+This enables the Azerbaijani keyboard layout in Chrome OS (see chrome://setting/languages).
+
+Author: Elvin Haci.(https://elwpin.com) (based on Chrome OS source)
+
+1.Just go to chrome://extensions, click to LOAD UNPACKED EXTENSION and choose this repository folder. 
+2. Then signout and signin. (via bottom-right menu)
+3. Then go to chrome://settings, open Advanced Settings, choose Language and input settings, and then by clicking ADD button add Azerbaijani language. 
+4. That's all, now ctrl+shift+space can switch your keyboard to Azerbaijani.
+
+
+1. chrome://extensions ünvanını yığın, oradan LOAD UNPACKED EXTENSION seçin və buradan yüklədiyiniz qovluğu seçin.
+2. Sağ aşağı sistem menyusundan signout edib signin edin.
+3. chrome://settings ünvanını yığıb oradan Advanced Settings-ə klik edib Language and input settings seçin. Orada Əlavə et düyməsi ilə Azərbaycan dilini əlavə edin.
+4. Vəssalam. İndi həm sağ aşağı künc menyudan, həm də ctrl+shift+space düymə kombinasiyası ilə dilləri dəyişə bilərsiniz.
